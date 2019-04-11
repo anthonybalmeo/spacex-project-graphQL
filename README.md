@@ -1,3 +1,4 @@
+Simple React + GraphQL + Apollo App that displays Space X Launches
 <!-- # tutorial from : https://github.com/bradtraversy/spacex_launch_stats
 # video: https://www.youtube.com/watch?v=SEMTj8w04Z8
 # SPACE X API: https://github.com/r-spacex/SpaceX-API
